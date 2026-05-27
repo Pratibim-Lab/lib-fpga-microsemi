@@ -1,0 +1,17 @@
+{
+  "id": "FPGA_Microsemi/A3P060-xVQx100:A3P060-xVQx100",
+  "name": "A3P060-xVQx100",
+  "library": "FPGA_Microsemi",
+  "file": "FPGA_Microsemi.kicad_symdir/A3P060-xVQx100.kicad_sym",
+  "description": "ProASIC3 Flash Family FPGAs, 512 MCLB / macrocells, TQFP-100 (VQ100)",
+  "datasheet": "https://www.mouser.com/datasheet/2/268/ProASIC_c2_ae3_Flash_Family_FPGAs_with_Optimal_Sof-3082432.pdf",
+  "keywords": "ProASIC3 ACTEL FLASH A3P060-VQ100 A3P060-VQG100 A3P060-2VQG100",
+  "footprint": "Package_QFP:TQFP-100_14x14mm_P0.5mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-fpga-microsemi@master/parts/A3P060-xVQx100/",
+  "part_path": "parts/A3P060-xVQx100",
+  "symbol_file": "parts/A3P060-xVQx100/A3P060-xVQx100.kicad_sym",
+  "source_library": "FPGA_Microsemi.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:04:04.816Z"
+}

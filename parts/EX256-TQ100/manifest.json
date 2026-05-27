@@ -1,0 +1,17 @@
+{
+  "id": "FPGA_Microsemi/EX256-TQ100:EX256-TQ100",
+  "name": "EX256-TQ100",
+  "library": "FPGA_Microsemi",
+  "file": "FPGA_Microsemi.kicad_symdir/EX256-TQ100.kicad_sym",
+  "description": "Actel eX FPGA Family, 100pin QFP",
+  "datasheet": "http://www.microsemi.com/document-portal/doc_download/130687-ex-datasheet",
+  "keywords": "Actel FPGA eX eX256",
+  "footprint": "Package_QFP:TQFP-100_14x14mm_P0.5mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-fpga-microsemi@master/parts/EX256-TQ100/",
+  "part_path": "parts/EX256-TQ100",
+  "symbol_file": "parts/EX256-TQ100/EX256-TQ100.kicad_sym",
+  "source_library": "FPGA_Microsemi.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:04:04.855Z"
+}

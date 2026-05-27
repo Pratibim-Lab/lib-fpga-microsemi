@@ -1,0 +1,17 @@
+{
+  "id": "FPGA_Microsemi/M2GL090T-FG484:M2GL090T-FG484",
+  "name": "M2GL090T-FG484",
+  "library": "FPGA_Microsemi",
+  "file": "FPGA_Microsemi.kicad_symdir/M2GL090T-FG484.kicad_sym",
+  "description": "IGLOO2 FPGA and SmartFusion2 SoC FPGA",
+  "datasheet": "https://www.microsemi.com/document-portal/doc_download/132042-ds0128-igloo2-and-smartfusion2-datasheet",
+  "keywords": "FPGA Igloo2 BGA",
+  "footprint": "Package_BGA:BGA-484_23.0x23.0mm_Layout22x22_P1.0mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-fpga-microsemi@master/parts/M2GL090T-FG484/",
+  "part_path": "parts/M2GL090T-FG484",
+  "symbol_file": "parts/M2GL090T-FG484/M2GL090T-FG484.kicad_sym",
+  "source_library": "FPGA_Microsemi.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:04:04.863Z"
+}

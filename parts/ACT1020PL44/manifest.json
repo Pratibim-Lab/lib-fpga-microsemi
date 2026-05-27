@@ -1,0 +1,17 @@
+{
+  "id": "FPGA_Microsemi/ACT1020PL44:ACT1020PL44",
+  "name": "ACT1020PL44",
+  "library": "FPGA_Microsemi",
+  "file": "FPGA_Microsemi.kicad_symdir/ACT1020PL44.kicad_sym",
+  "description": "ACT1020-PL44, Actel ACT1 FPGA, PLCC-44",
+  "datasheet": "https://www.microsemi.com/document-portal/doc_download/130666-act-1-series-fpgas-datasheet",
+  "keywords": "Actel FPGA",
+  "footprint": "Package_LCC:PLCC-44_16.6x16.6mm_P1.27mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-fpga-microsemi@master/parts/ACT1020PL44/",
+  "part_path": "parts/ACT1020PL44",
+  "symbol_file": "parts/ACT1020PL44/ACT1020PL44.kicad_sym",
+  "source_library": "FPGA_Microsemi.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:04:04.840Z"
+}
